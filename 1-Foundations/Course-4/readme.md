@@ -1,16 +1,10 @@
-## Introducing data analytics
+## Setting up a data toolbox
 
-```Data helps us make decisions in everyday life and in business. In this first part of the course, you’ll learn how data analysts use data analytics and the tools of their trade to inform those decisions. You’ll also discover more about this course and the overall program expectations.```
+```Spreadsheets, query languages, and data visualization tools are all a big part of a data analyst’s job. In this part of the course, you’ll learn the basic concepts involved and explore some examples of how these tools work.```
 
 ### Learning Objectives
 
-* Define key concepts involved in data analytics including data, data analysis, and data ecosystem
-* Discuss the use of data in everyday life decisions
-* Identify the key features of the learning environment and their uses
-* Describe principles and practices that will help to increase one's chances of success in this certificate
-* Discuss data ecosystems and how they relate to decision-making
-* Explain the difference between data analysis and data analytics
-* Evaluate the role of analytics in the data ecosystem
-* Explain the use of data in organizational decision-making
-* Be prepared to use the discussion forum effectively and appropriately
-* Describe the key concepts to be discussed in the program, including learning outcomes
+* Describe spreadsheets, query languages, and data visualization tools, giving specific examples
+* Demonstrate an understanding of the uses, basic features, and functions of a spreadsheet
+* Explain the basic concepts involved in the use of SQL including specific examples of queries
+* Identify the basic concepts involved in data visualization, giving specific examples
