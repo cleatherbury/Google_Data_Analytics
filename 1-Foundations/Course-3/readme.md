@@ -1,16 +1,13 @@
-## Introducing data analytics
+## Exploring the wonderful world of data
 
-```Data helps us make decisions in everyday life and in business. In this first part of the course, you’ll learn how data analysts use data analytics and the tools of their trade to inform those decisions. You’ll also discover more about this course and the overall program expectations.```
+```Data has its own life cycle, and the work of data analysts often intersects with that cycle. In this part of the course, you’ll learn how the data life cycle and data analysts' work both relate to your progress through this program. You’ll also be introduced to applications used in the data analysis process.```
 
 ### Learning Objectives
 
-* Define key concepts involved in data analytics including data, data analysis, and data ecosystem
+* Identify key software applications critical to the work of a data analyst including spreadsheets, databases, query languages, and visualization tools
+* Identify relationships between the data analysis process and the courses in the Google Data Analytics Certificate
+* Explain the data analysis process, making specific reference to the ask, prepare, process, analyze, share, and act phases
 * Discuss the use of data in everyday life decisions
-* Identify the key features of the learning environment and their uses
-* Describe principles and practices that will help to increase one's chances of success in this certificate
-* Discuss data ecosystems and how they relate to decision-making
-* Explain the difference between data analysis and data analytics
 * Evaluate the role of analytics in the data ecosystem
-* Explain the use of data in organizational decision-making
-* Be prepared to use the discussion forum effectively and appropriately
-* Describe the key concepts to be discussed in the program, including learning outcomes
+* Discuss the role of spreadsheets, query languages, and data visualization tools in data analytics
+* Discuss the phases of the data life cycle
