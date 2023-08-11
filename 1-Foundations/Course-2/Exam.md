@@ -17,6 +17,7 @@ Adding descriptive headers to columns of data in a spreadsheet is an example of 
 * Curiosity
 * Data strategy
 * Having a technical mindset
+
 > ```Identifying the motivation behind data collection and gathering additional information are examples of understanding context. Context is the condition in which something exists.```
 
 ### Question 3
@@ -67,9 +68,9 @@ Fill in the blank: _______ is a method examining and evaluating how a process wo
 
 Data analysts following data-driven decision-making use the analytical skills of curiosity, having a technical mindset, and data design. What other two analytical skills would they employ?
 
-- ```data strategy```\
-- knowledge\
-- ```understanding context```\
-- efficiency
+-&ensp;&nbsp;```data strategy```\
+-&ensp;&nbsp;knowledge\
+-&ensp;&nbsp;```understanding context```\
+-&ensp;&nbsp;efficiency
 
 > ```Data-driven decision making is using facts to guide business strategy.```
