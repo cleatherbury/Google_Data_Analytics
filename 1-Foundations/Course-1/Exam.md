@@ -28,9 +28,9 @@ A data scientist is someone who does what?
 Question 4
 Data analysts act as detectives to uncover clues within the data. Like a detective, a data analyst may use their _______ to solve business problems. Select all that apply.
 
-&emsb;```awareness```
+&emsb; ```awareness```
 
-&emsb;```gut instinct```
+&emsb; ```gut instinct```
 
 &emsb;personal opinion
 
