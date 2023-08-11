@@ -28,24 +28,24 @@ A data scientist is someone who does what?
 Question 4
 Data analysts act as detectives to uncover clues within the data. Like a detective, a data analyst may use their _______ to solve business problems. Select all that apply.
 
-```awareness```
+&emsb;```awareness```
 
-```gut instinct```
+&emsb;```gut instinct```
 
-personal opinion
+&emsb;personal opinion
 
-```rational thought```
+&emsb;```rational thought```
 
 Question 5
 If you are using data-driven decision-making, what action steps would you take? Select all that apply.
 
-```Gathering and analyzing data```
+&emsb;```Gathering and analyzing data```
 
-Surveying customers about results, conclusions, and recommendations
+&emsb;Surveying customers about results, conclusions, and recommendations
 
-```Drawing conclusions from your analysis```
+&emsb;```Drawing conclusions from your analysis```
 
-```Sharing your results with subject matter experts```
+&emsb;```Sharing your results with subject matter experts```
 
 Question 6
 To get the most out of data-driven decision-making, it’s important to include insights from people very familiar with the business problem. What are these people called?
@@ -69,10 +69,10 @@ A music streaming service is looking to increase user engagement on their platfo
 Question 8
 You read an interesting article in a magazine and want to share it in the discussion forum. What should you do when posting? Select all that apply.
 
-Take credit for creating the article
+&emsb;Take credit for creating the article
 
-```Check your post for typos or grammatical errors```
+&emsb;```Check your post for typos or grammatical errors```
 
-```Make sure the article is relevant to data analytics```
+&emsb;```Make sure the article is relevant to data analytics```
 
-Include your email address for people to send questions or comments
+&emsb;Include your email address for people to send questions or comments
