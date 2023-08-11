@@ -1,89 +1,69 @@
+
 ## Weekly challenge 1
 
-
 ### Question 1
+The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making describes what?
 
-Which of the following options describes data analysis?
-
-* Creating new ways of modeling and understanding the unknown by using raw data
-* ```The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making``````
-* The various elements that interact with one another in order to provide, manage, store, organize, analyze, and share data
-* Using facts to guide business strategy
-
-> ```Data analysis is the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making.``````
-
-
-### Question 2
-
-A business collects and analyzes information about its employees in order to gain insights that unlock potential and create a more productive workplace. What practice does this describe?
-
-* Workforce observation
-* Employee retention
-* Team collaboration
-* ```People analytics```
-
-> ```People analytics — also known as human resources or workforce analytics — involves collecting and analyzing information on a company’s employees in order to gain insights that unlock potential and create a more productive workplace.```
-
-### Question 3
-
-In data analytics, a model is a group of elements that interact with one another.
-
-* True
-* ```False```
-
-> ```In data analytics, a data ecosystem is a group of elements that interact with one another.```
-
-### Question 4
-
-Fill in the blank: The term _____ is defined as an intuitive understanding of something with little or no explanation.
-
-* awareness
-* personal opinion
-* rational thought
-* ```gut instinct```
-
-> ```Gut instinct is an intuitive understanding of something with little or no explanation.```
-
-### Question 5
-
-A company defines a problem it wants to solve. Then, a data analyst gathers relevant data, analyzes it, and uses it to draw conclusions. The analyst shares their analysis with subject-matter experts, who validate the findings. Finally, a plan is put into action. What does this scenario describe?
-
-* Identification of trends
-* ```Data-driven decision-making```
-* Customer service
 * Data science
+* ```Data analysis```
+* Data life cycle
+* Data ecosystem
 
-> ```This company has put data at the heart of its business strategy in order to achieve data-driven decision-making.```
+### Question 2 
+Fill in the blank: Hardware, software, and the cloud all interact with each other to store and organize data in a _____.
 
-### Question 6
+* modeling system
+* cloud environment
+* database
+* ```data ecosystem```
 
-Fill in the blank: The people very familiar with a business problem are called _____. They are an important part of data-driven decision-making. 
+Question 3
+A data scientist is someone who does what?
 
-* ```subject-matter experts```
-* stakeholders 
-* competitors
-* customers
+* Designs new products
+* Finds answers to existing questions by creating insights from data sources
+* Solves engineering problems
+* ```Creates new questions using data```
 
-> ```Subject-matter experts are very familiar with the business problem and can look at the results of data analysis to validate the choices being made.```
+Question 4
+Data analysts act as detectives to uncover clues within the data. Like a detective, a data analyst may use their _______ to solve business problems. Select all that apply.
 
-### Question 7
+```awareness```
+```gut instinct```
+personal opinion
+```rational thought```
 
-A data analyst finishes analyzing data for a marketing project. The results are clear, so they present findings to the client and ask for conclusions and recommendations. What should they have done first? 
+Question 5
+If you are using data-driven decision-making, what action steps would you take? Select all that apply.
 
-* Archived the datasets in order to keep them secure
-* Created a model based on the results of the analysis
-* ```Shared the results with subject-matter experts from the marketing team for their input```
-* Surveyed customers about results, conclusions, and recommendations
+```Gathering and analyzing data```
+Surveying customers about results, conclusions, and recommendations
+```Drawing conclusions from your analysis``` 
+```Sharing your results with subject matter experts```
 
-> ```Including insights from people who are familiar with the business problem is an example of data-driven decision-making.```
+Question 6
+To get the most out of data-driven decision-making, it’s important to include insights from people very familiar with the business problem. What are these people called?
 
-### Question 8
+* ```Subject-matter experts```
+* Competitors
+* Stakeholders
+* Customers
 
-You have recently subscribed to an online data analytics magazine. You really enjoyed an article and want to share it in the discussion forum. Which of the following would be appropriate in a post? Select all that apply.
+Question 7
+A music streaming service is looking to increase user engagement on their platform. The CEO decides to leverage the company's user data and tasks the data analysts with uncovering unknown trends and characteristics of the companies user base. This strategy is known as what?
 
-* Including an advertisement for how to subscribe to the data analytics magazine
-* ```Checking your post for typos or grammatical errors```
-* ```Giving credit to the original author```
-* ```Including your own thoughts about the article```
+* Data management decision-making
 
-> ```Sharing informative articles is an appropriate use of the forum as long as you give credit to the original author. Also, posts should be relevant to data analytics and checked for typos and grammatical errors.```
+* Data analytics decision-making
+
+* Data science decision-making
+
+* ```Data-driven decision-making```
+
+Question 8
+You read an interesting article in a magazine and want to share it in the discussion forum. What should you do when posting? Select all that apply.
+
+Take credit for creating the article
+```Check your post for typos or grammatical errors```
+```Make sure the article is relevant to data analytics```
+Include your email address for people to send questions or comments
