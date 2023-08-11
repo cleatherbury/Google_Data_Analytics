@@ -2,38 +2,24 @@
 
 ### Question 1
 
-Fill in the blank: Analytical skills are defined as _____. 
+Curiosity is the analytical skill of using your instinct to solve problems.
 
-* ```qualities and characteristics associated with solving problems using facts```
-* an analyst's intuition, inner voice, or gut instinct
-* the management of people, processes, and tools 
-* the ability to break things down into smaller steps
+* True
+* ```False```
 
-> ```Analytical skills are qualities and characteristics associated with solving problems using facts.```
+> ```Correct, curiosity is the analytical skill of using your instinct to solve problems.```
 
 ### Question 2
 
-A junior data analyst is seeking out new experiences in order to gain knowledge. They watch videos and read articles about data analytics. They ask experts questions. Which analytical skill are they using?
+Adding descriptive headers to columns of data in a spreadsheet is an example of which analytical skill?
 
-* Understanding context 
-* ```Curiosity```
+* ```Understanding context```
+* Curiosity
 * Data strategy
 * Having a technical mindset
-
-> ```Curious people seek out new experiences, which leads to knowledge.```
-
-### Question 3
-
-Identifying the motivation behind data collection and gathering additional information are examples of which analytical skill?
-
-* Data design
-* ```Understanding context```
-* Data strategy 
-* A technical mindset
-
 > ```Identifying the motivation behind data collection and gathering additional information are examples of understanding context. Context is the condition in which something exists.```
 
-### Question 4
+### Question 3
 
 Having a technical mindset is an analytical skill involving what?
 
@@ -46,62 +32,44 @@ Having a technical mindset is an analytical skill involving what?
 
 ### Question 5
 
-Which analytical skill involves managing the people, processes, and tools used in data analysis? 
+The manager at a music shop notices that more trombones are repaired on the days when Alex and Jasmine work the same shift. After some investigation, the manager discovers that Alex is excellent at fixing slides, and Jasmine is great at shaping mouthpieces. Working together, Alex and Jasmine repair trombones faster. The manager is happy to have discovered this relationship and decides to always schedule Alex and Jasmine for the same shifts. In this scenario, the manager used which quality of analytical thinking?
 
-* Curiosity
-* Understanding context
-* ```Data strategy```
-* Data design 
+* Visualization
+* ```Correlation```
+* Big-Picture thinking
+* Problem-orientation
 
-> ```Data strategy involves managing the people, processes, and tools used in data analysis.```
+> ```A correlationh is the fourth quality of analytical thinking: being able to identify  between two or more pieces of data.```
 
 ### Question 6
 
-Correlation is the aspect of analytical thinking that involves figuring out the specifics that help you execute a plan.
+A company has recently tasked their data science team with figuring out what is causing the decline in production at one of their plants. The data analysts ask a number of questions trying to get to the root cause of the problem. This technique is known as what?
 
-* True
-* ```False```
-
-> C```orrelation involves being able to identify a relationship between two or more pieces of data.```
-
-### Question 7
-
-Fill in the blank: Detail-oriented thinking is about figuring out all of the _____ that will help you execute a plan. 
-
-* ```specifics```
-* datasets
-* instructions
-* information
-
-> ```Detail-oriented thinking is about figuring out all of the specifics that will help you execute a plan.```
-
-### Question 8
-
-The five whys is a technique that involves asking, “Why?” five times in order to achieve what goal?
-
-* ```Identify the root cause of a problem```
-* Visualize how a process should look in the future
-* Use facts to guide business strategy
-* Put a plan into action
+* Curiosity
+* ```The five whys```
+* Strategizing
+* Inquiry
 
 > ```In the five whys, you ask, “Why?” five times to reveal the root cause of a problem.```
 
-### Question 9
+### Question 7
 
-What method involves examining and evaluating how a process works currently in order to get it where you want it to be in the future?
+Fill in the blank: _______ is a method examining and evaluating how a process works currently in order to get where you want to be in the future.
 
 * ```Gap analysis```
-* The five whys
 * Strategy
 * Data visualization
+* The five whys
 
-> ```Gap analysis is a method for examining and evaluating how a process works currently in order to get where you want to be in the future.```
+> ```Gap analysis is a method examining and evaluating how a process works currently in order to get where you want to be in the future.```
 
-### Question 10
+### Question 8
 
-Data-driven decision-making involves the five analytical skills: curiosity, understanding context, having a technical mindset, data design, and data strategy. Each plays a role in data-driven decision-making.
+Data analysts following data-driven decision-making use the analytical skills of curiosity, having a technical mindset, and data design. What other two analytical skills would they employ?
 
-* ```True```
-* False
+- ```data strategy```\
+- knowledge\
+- ```understanding context```\
+- efficiency
 
-> ```Data-driven decision-making involves curiosity, understanding context, having a technical mindset, data design, and data strategy.```
+> ```Data-driven decision making is using facts to guide business strategy.```
