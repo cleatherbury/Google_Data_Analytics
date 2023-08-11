@@ -1,16 +1,16 @@
-## Introducing data analytics
+## Thinking analytically
 
-```Data helps us make decisions in everyday life and in business. In this first part of the course, you’ll learn how data analysts use data analytics and the tools of their trade to inform those decisions. You’ll also discover more about this course and the overall program expectations.```
+```Data analysts balance many different roles in their work. In this part of the course, you’ll learn about some of these roles and the key skills used by analysts. You’ll also explore analytical thinking and how it relates to data-driven decision-making.```
+
 
 ### Learning Objectives
 
-* Define key concepts involved in data analytics including data, data analysis, and data ecosystem
-* Discuss the use of data in everyday life decisions
-* Identify the key features of the learning environment and their uses
-* Describe principles and practices that will help to increase one's chances of success in this certificate
-* Discuss data ecosystems and how they relate to decision-making
-* Explain the difference between data analysis and data analytics
-* Evaluate the role of analytics in the data ecosystem
-* Explain the use of data in organizational decision-making
-* Be prepared to use the discussion forum effectively and appropriately
-* Describe the key concepts to be discussed in the program, including learning outcomes
+* Explain the concept of data-driven decision-making including specific examples
+* Describe the key characteristics of analytical thinking
+* Conduct an analytical thinking self assessment, giving specific examples of the application of analytical thinking
+* Demonstrate an understanding of the five key analytical skills used by data analysts
+* Explain how analytical thinking enables decision-making
+* Begin asking more effective questions
+* Identify how gap analysis is used to move from a current to a future state
+* Be able to use the five whys to get to the root cause of a problem
+* Describe how visualization, strategic thinking, problem orientation, identification of relationships, and seeing both the big picture and details enable data analysts to think analytically
