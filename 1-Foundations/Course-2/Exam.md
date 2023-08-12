@@ -7,7 +7,7 @@ Curiosity is the analytical skill of using your instinct to solve problems.
 * True
 * ```False```
 
-> ```Correct, curiosity is the analytical skill of using your instinct to solve problems.```
+> ```Incorrect, curiosity is not the analytical skill of using your instinct to solve problems.```
 
 ### Question 2
 
@@ -30,6 +30,15 @@ Having a technical mindset is an analytical skill involving what?
 * Balancing roles and responsibilities
 
 > ```Having a technical mindset involves the ability to break things down into smaller steps or pieces and work with them in an orderly and logical way.```
+
+### Question 4
+
+In data analysis, data strategy is the analytical skill that involves managing which of the following? Select all that apply.
+
+-&ensp;&nbsp;```people```
+-&ensp;&nbsp;consent
+-&ensp;&nbsp;```Process```
+-&ensp;&nbsp;```Tools```
 
 ### Question 5
 
