@@ -29,7 +29,7 @@ A data scientist is someone who does what?
 * Solves engineering problems
 * ```Creates new questions using data```
 
-> ```Data science: is creating new ways of modeling and understanding the unknown by using raw data.```
+> ```Data science is creating new ways of modeling and understanding the unknown by using raw data.```
 
 Question 4
 Data analysts act as detectives to uncover clues within the data. Like a detective, a data analyst may use their _______ to solve business problems. Select all that apply.
