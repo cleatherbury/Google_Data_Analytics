@@ -30,14 +30,14 @@ Data analysts act as detectives to uncover clues within the data. Like a detecti
 
 - [x] &ensp;```awareness```
 - [x] &ensp;```gut instinct```
-- [ ] &ensp;personal opinion\
+- [ ] &ensp;personal opinion
 - [x] &ensp;```rational thought```
 
 Question 5
 If you are using data-driven decision-making, what action steps would you take? Select all that apply.
 
 - [x] &ensp;```Gathering and analyzing data```
--&ensp;Surveying customers about results, conclusions, and recommendations
+- [ ] &ensp;Surveying customers about results, conclusions, and recommendations
 - [x] &ensp;```Drawing conclusions from your analysis```
 - [x] &ensp;```Sharing your results with subject matter experts```
 
