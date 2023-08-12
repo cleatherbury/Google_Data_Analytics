@@ -35,10 +35,12 @@ Having a technical mindset is an analytical skill involving what?
 
 In data analysis, data strategy is the analytical skill that involves managing which of the following? Select all that apply.
 
--&ensp;&nbsp;```people```
--&ensp;&nbsp;consent
--&ensp;&nbsp;```Process```
+-&ensp;&nbsp;```people```\
+-&ensp;&nbsp;consent\
+-&ensp;&nbsp;```Process```\
 -&ensp;&nbsp;```Tools```
+
+>```Data analysis is the management of the people, processes, and tools.```
 
 ### Question 5
 
