@@ -46,7 +46,7 @@ What might you do to fix this problem? Select all that apply.
 
 Once you’ve found the missing information, you analyze your dataset. During analysis, you create a new column F. At the top of the column, you add the attribute Average Percentage of Total Sales - Splashtastic.
 
-Question 3
+### Question 3
 Fill in the blank: An attribute is a characteristic or _____ of data used to label a column.
 
 * ```collection```
