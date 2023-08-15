@@ -18,7 +18,7 @@ Considering the size of your dataset, you decide a spreadsheet will be the best 
 * ```Spreadsheets work well for processing and analyzing a small dataset, like the one you’re using.```
 * Databases can’t be used for analysis.
 
-~~~
+
 * Scenario 1 continued *
 You’ve downloaded the data from your company database and imported it into a spreadsheet. IMPORTANT: To answer questions using this dataset for the scenario, click the link below and select the “Use Template” button before answering the questions.
 Link to template: 
@@ -29,7 +29,6 @@ If you don’t have a Google account, you can download the template directly fro
 CSV File](https://d3c33hcgiwev3.cloudfront.net/jgOcTMW9S-uDnEzFvfvrYQ_c46ee66727424d2298e2ff73090392f1_Course-Challenge-Dataset---Scenario-1---Scenario-1_-Pharmacy-Data---Part-1.csv?Expires=1692230400&Signature=cAoaXic-pvLLcCkJGdRm3aPX5h7IxeWAL3i96P6QA3lQ3hnjZROrs89rKaAcCAI7Y7h4dZuzrDYpLD7p1IXghJTNvJG2I7KckBPud4FwbNcCkN-HGHbZoSODhJxPuoqs~CXAfOVzzQkAyUfSy~ZRCsY4qBeqIzvx~Gf1sM5wDvc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 ￼
 Now, it’s time to process the data. As you know, this step involves finding and eliminating errors and inaccuracies that can get in the way of your results. While cleaning the data, you notice there’s missing data in one of the rows. 
-~~~
 
 ### Question 2
 What might you do to fix this problem? Select all that apply.
@@ -99,7 +98,6 @@ The table is dental_data_table, and the column name is zip_code. How do you comp
 * WHERE = 81137
 * WHERE_zip_code = 81137
 
-~~~
 * Scenario 2 continued *
 The dataset your supervisor retrieved and imported into a spreadsheet includes a list of patients, their demographic information, dental procedure types, and whether they attended their follow-up appointment. To use the dataset for this scenario, click the link below and select “Use Template.”
 Link to template: 
@@ -110,7 +108,6 @@ If you don’t have a Google account, you can download the template directly fro
 CSV File
 ￼
 The patient demographic information includes data such as age and gender. As you’re learning, it’s your responsibility as a data analyst to make sure your analysis is fair. 
-~~~
 
 ## Question 7
 The fact that the dataset includes people who all live in the same zip code might get in the way of fairness.
