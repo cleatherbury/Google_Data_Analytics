@@ -1,4 +1,3 @@
-
 ## Weekly challenge 1
 
 ### Question 1

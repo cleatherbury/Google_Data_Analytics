@@ -1,6 +1,5 @@
 ## Weekly challenge 3
 
-
 ### Question 1
 Fill in the blank: A business is determining who should be responsible for the data in their current data analysis project. This means that the company is in the ______ stage of the data life cycle.
 
