@@ -92,6 +92,7 @@ The table is dental_data_table, and the column name is zip_code. How do you comp
 | --- |
 | SELECT * |
 | FROM dental_data_table |
+| --- |
 
 * zip_code = 81137
 * ```WHERE zip_code = 81137```
