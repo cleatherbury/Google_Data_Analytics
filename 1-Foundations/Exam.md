@@ -88,10 +88,10 @@ An NDS member with three dental offices in Colorado offers to share its data on 
 
 ### Question 6
 The table is dental_data_table, and the column name is zip_code. How do you complete the following query?
-
+| SQL Query |
+| --- |
 | SELECT * |
 | FROM dental_data_table |
-| - |
 
 * zip_code = 81137
 * ```WHERE zip_code = 81137```
