@@ -22,11 +22,11 @@ Considering the size of your dataset, you decide a spreadsheet will be the best 
 * Scenario 1 continued *
 You’ve downloaded the data from your company database and imported it into a spreadsheet. IMPORTANT: To answer questions using this dataset for the scenario, click the link below and select the “Use Template” button before answering the questions.
 Link to template: 
-Course Challenge - Scenario 1
+[Course Challenge - Scenario 1](https://docs.google.com/spreadsheets/d/1pIiGuiZ8SZ2xNfXHEIIb5gpX1NNOuKAUbaqtmPh1GUY/template/preview?resourcekey=0-p4GIOWHIaC6wZTvc9HZzyA#gid=0)
 OR 
 If you don’t have a Google account, you can download the template directly from the attachment below.
-Course Challenge Dataset - Scenario 1 - Scenario 1_ Pharmacy Data - Part 1
-CSV File
+[Course Challenge Dataset - Scenario 1 - Scenario 1_ Pharmacy Data - Part 1
+CSV File](https://d3c33hcgiwev3.cloudfront.net/jgOcTMW9S-uDnEzFvfvrYQ_c46ee66727424d2298e2ff73090392f1_Course-Challenge-Dataset---Scenario-1---Scenario-1_-Pharmacy-Data---Part-1.csv?Expires=1692230400&Signature=cAoaXic-pvLLcCkJGdRm3aPX5h7IxeWAL3i96P6QA3lQ3hnjZROrs89rKaAcCAI7Y7h4dZuzrDYpLD7p1IXghJTNvJG2I7KckBPud4FwbNcCkN-HGHbZoSODhJxPuoqs~CXAfOVzzQkAyUfSy~ZRCsY4qBeqIzvx~Gf1sM5wDvc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 ￼
 Now, it’s time to process the data. As you know, this step involves finding and eliminating errors and inaccuracies that can get in the way of your results. While cleaning the data, you notice there’s missing data in one of the rows. 
 ~~~
@@ -103,10 +103,10 @@ The table is dental_data_table, and the column name is zip_code. How do you comp
 * Scenario 2 continued *
 The dataset your supervisor retrieved and imported into a spreadsheet includes a list of patients, their demographic information, dental procedure types, and whether they attended their follow-up appointment. To use the dataset for this scenario, click the link below and select “Use Template.”
 Link to template: 
-Course Challenge - Scenario 2
+Course Challenge - Scenario 2](https://docs.google.com/spreadsheets/d/1tXJvXgUP58iYYSW6tBfiGMD5lJFOgHXvHx2EdDOCxnA/template/preview?resourcekey=0-Ha_b6RzKHJFYElJN20NOyg#gid=0)
 OR 
 If you don’t have a Google account, you can download the template directly from the attachment below.
-Course Challenge Dataset - Scenario 2[https://d3c33hcgiwev3.cloudfront.net/UVdWSYRdQgeXVkmEXaIHXQ_c621f39757c840b6a484589670699cf1_Course-Challenge-Dataset---Scenario-2.csv?Expires=1692230400&Signature=LrRIGCV0~4ZCxjjj6Lnx7iaZh3OGLUaoC1bieWITosvlLGnEu79uVcB73F3xtN0qsg2znrTmXZw-inHnt5Nw4H5uHc3yhYkz-C0XDYNeqQMWRT2kUj3KwK0BHBGSbTL30eQFoKmrPpIr-nTIVEQlclQXHNPyd7dpAkA2Sj3n-K0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A]
+[Course Challenge Dataset - Scenario 2](https://d3c33hcgiwev3.cloudfront.net/UVdWSYRdQgeXVkmEXaIHXQ_c621f39757c840b6a484589670699cf1_Course-Challenge-Dataset---Scenario-2.csv?Expires=1692230400&Signature=LrRIGCV0~4ZCxjjj6Lnx7iaZh3OGLUaoC1bieWITosvlLGnEu79uVcB73F3xtN0qsg2znrTmXZw-inHnt5Nw4H5uHc3yhYkz-C0XDYNeqQMWRT2kUj3KwK0BHBGSbTL30eQFoKmrPpIr-nTIVEQlclQXHNPyd7dpAkA2Sj3n-K0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 CSV File
 ￼
 The patient demographic information includes data such as age and gender. As you’re learning, it’s your responsibility as a data analyst to make sure your analysis is fair. 
