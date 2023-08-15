@@ -40,7 +40,7 @@ Data programming
 Data ethics
 Data visualization
 
-Question 6
+## Question 6
 Data analysts ensure their analysis is fair for what reason?
 
 * Fairness helps them stay organized.
@@ -48,13 +48,13 @@ Data analysts ensure their analysis is fair for what reason?
 * Fairness helps them pick and choose which data to include from a dataset. 
 * Fairness helps them communicate with stakeholders.
 
-Question 7
+## Question 7
 A data analyst is analyzing fruit and vegetable sales at a grocery store. They’re able to find data on everything except red onions. If they exclude red onions from the analysis, this would be an example of creating or reinforcing bias.
 
 * ```True```
 * False
 
-Question 8
+## Question 8
 A hotel is trying to gather data on their guests' satisfaction with their stay. Which of the following options would best help the hotel account for potential bias in their data?
 
 * Only surveying guests who have stayed at the hotel for more than 3 nights
