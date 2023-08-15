@@ -106,7 +106,7 @@ Link to template:
 Course Challenge - Scenario 2
 OR 
 If you don’t have a Google account, you can download the template directly from the attachment below.
-Course Challenge Dataset - Scenario 2
+Course Challenge Dataset - Scenario 2[https://d3c33hcgiwev3.cloudfront.net/UVdWSYRdQgeXVkmEXaIHXQ_c621f39757c840b6a484589670699cf1_Course-Challenge-Dataset---Scenario-2.csv?Expires=1692230400&Signature=LrRIGCV0~4ZCxjjj6Lnx7iaZh3OGLUaoC1bieWITosvlLGnEu79uVcB73F3xtN0qsg2znrTmXZw-inHnt5Nw4H5uHc3yhYkz-C0XDYNeqQMWRT2kUj3KwK0BHBGSbTL30eQFoKmrPpIr-nTIVEQlclQXHNPyd7dpAkA2Sj3n-K0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A]
 CSV File
 ￼
 The patient demographic information includes data such as age and gender. As you’re learning, it’s your responsibility as a data analyst to make sure your analysis is fair. 
